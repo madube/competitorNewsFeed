@@ -1,0 +1,47 @@
+# Keywords & sources configuration
+competitors:
+  - Accesso
+  - RocketRez
+  - CenterEdge
+  - Roller
+
+industries:
+  - waterpark
+  - waterparks
+  - theme park
+  - theme parks
+  - zoo
+  - zoos
+  - aquarium
+  - aquariums
+
+legal_keywords:
+  - law
+  - regulation
+  - regulatory
+  - compliance
+  - legislation
+  - privacy
+  - data protection
+  - security
+  - safety
+  - accessibility
+  - ADA
+  - PCI
+  - payments
+  - ticketing regulation
+  - GDPR
+  - CCPA
+
+# Add or adjust sources. You can include RSS or regular URLs. The script attempts RSS first.
+sources:
+  - name: The Ticketing Business
+    urls:
+      # Add category/tag RSS if available, else homepage or news/legal category
+      - https://www.theticketingbusiness.com/
+  - name: Blooloop
+    urls:
+      - https://blooloop.com/
+  - name: IAAPA News
+    urls:
+      - https://www.iaapa.org/news
