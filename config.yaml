@@ -45,3 +45,6 @@ sources:
   - name: IAAPA News
     urls:
       - https://www.iaapa.org/news
+  - name: the Ticketing Business
+    urls:
+      - https://www.theticketingbusiness.com/
